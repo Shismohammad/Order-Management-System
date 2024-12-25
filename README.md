@@ -52,14 +52,15 @@ This is a backend application simulating an **Order Management System** with dyn
   - Total: ₹12,000
   - Discounts: ₹1700 (₹1200 + ₹500)
   - Final: ₹10,300
+  
 
 ## Setup Instructions
 
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-link>
-   cd <repository-directory>
+   git clone https://github.com/Shismohammad/Order-Management-System
+   cd Order-Management-System
    ```
 
 2. Install Dependencies:
@@ -156,6 +157,8 @@ This is a backend application simulating an **Order Management System** with dyn
     "success": true
   }
   ```
+
+![Screenshot 2024-12-25 162058](https://github.com/user-attachments/assets/f5257329-cf61-41cd-86a4-2230cbe271e6)
 
 ## Testing
 
