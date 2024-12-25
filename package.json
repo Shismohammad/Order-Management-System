@@ -1,0 +1,27 @@
+{
+  "name": "Order Management System",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "keywords": [
+    "RestAPI",
+    "ExpressJS"
+  ],
+  "author": "Shismohammad Mulla",
+  "license": "ISC",
+  "description": "Order Management System",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
