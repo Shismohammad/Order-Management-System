@@ -10,7 +10,7 @@ const calculateDiscount = (quantity, price) => {
     discount = discount + 500
   }
 
-  finalAmount = totalAmount - discount
+  let finalAmount = totalAmount - discount
 
   let final = {
     totalAmount,
